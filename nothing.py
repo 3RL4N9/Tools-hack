@@ -28,6 +28,7 @@ siapa()
 for a in range(1, 1001):
     time.sleep(0.01)
     print(a, '1 3 4 7 5 3 8 4 8 3 8 4 8 5 8 6 8 5 7 5 4 6 8 6 7')
+    os.system('clear')
 def logo():print("""\33[4m
 eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 eeeeeeeeeeeeeeeeeeeee     eeeeeeeeeeeeeeeeeeeeeeeeeeeee
