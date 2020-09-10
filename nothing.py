@@ -1,4 +1,6 @@
 #./bin/python
+#mau recode??
+#masak iya tools kayak gini mau di recode
 
 import os,time
 os.system('clear')
