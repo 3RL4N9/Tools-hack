@@ -1,5 +1,5 @@
 #./bin/python
-import os,time
+import os,time,sys
 os.system('clear')
 os.system('toilet -f standard Hay -F gay')
 time.sleep(2.00)
